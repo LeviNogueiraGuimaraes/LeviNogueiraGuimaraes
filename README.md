@@ -6,7 +6,7 @@
 
 
 
-![Ashmit Mehta](https://github.com/divyansh956/divyansh956/blob/main/img/github.png)
+![Ashmit Mehta](https://br.pinterest.com/pin/863917141017382821/)
 <br><br><br>
 
 
