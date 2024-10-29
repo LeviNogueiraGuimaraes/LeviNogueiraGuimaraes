@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bemvindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
@@ -21,15 +21,15 @@
 
 #
 
-<p align="center">Estudante de Informática e Manutenção de Computadores na Escola Profissional Vereador José Batista Filho. Atualmente estou cursando o primeiro ano do ensino médio.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+<p align="center">Estudante de Informática e Manutenção de Computadores na Escola Profissional Vereador José Batista Filho. Cursando o primeiro ano do ensino médio.
+Sou desenhista e estou buscando novos desafios na área de tecnologia. 
   
 #
 
 ![](https://visitcount.itsvg.in/api?id=ash-codes18&icon=1&color=10)
 
 
-![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=andr3Levi&show_icons=true&theme=dark)
+![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviNogueiraGuimaraes&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
 
 
